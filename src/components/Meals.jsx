@@ -1,3 +1,5 @@
+import "../App.css";
+
 const Meals = () => {
   return <h1>Meals</h1>;
 };

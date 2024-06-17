@@ -1,5 +1,11 @@
+import "../App.css";
+
 const Favorites = () => {
-  return <h1>Fav</h1>;
+  return (
+    <div>
+      <h1>Fav</h1>
+    </div>
+  );
 };
 
 export default Favorites;

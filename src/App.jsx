@@ -7,7 +7,7 @@ import Meals from "./components/Meals";
 const App = () => {
   return (
     <main>
-      {/* <Search /> */}
+      <Search />
       {/* <Favorites /> */}
       <Meals />
       {/* <Modal /> */}

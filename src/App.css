@@ -195,7 +195,7 @@ ul {
   color: var(--grey-400);
 }
 
-/.search-container .btn {
+.search-container .btn {
   font-size: 0.75rem;
 }
 
